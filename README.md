@@ -1,4 +1,7 @@
 ## NodeJS Webscraper
+
+![Sraper](https://github.com/amisha26/Web-Scraper/blob/master/src/img/web.png)
+
 Demo for showing how to scrape data and get backend data to the frontend. 
 
 
