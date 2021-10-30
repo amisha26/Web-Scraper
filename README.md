@@ -1,4 +1,4 @@
-## NodeJS Webscraper
+## NodeJS Web-Scraper
 
 ![Sraper](https://github.com/amisha26/Web-Scraper/blob/master/src/img/web.png)
 
@@ -13,7 +13,7 @@ You can run this project on your local machine. Just pull it down and do the fol
 
 1. Run the command above to install all the packages
 
-### Start the Project
+### Setup
 
 2. Now run the server:
 
